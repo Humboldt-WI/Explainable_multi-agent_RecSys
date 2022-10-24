@@ -1,15 +1,17 @@
 # Explainable Multi-Agent Recommendation System for Energy-Efficient Smart Home
 
-A digital companion to the research paper 
+A digital companion to the preprint
 
 ```
 Alona Zharova, Annika Boer, Julia Knoblauch, Kai Ingo Schewina, Jana Vihs (2022).
 Explainable Multi-Agent Recommendation System for Energy-Efficient Smart Home.
-[...]
+arXiv preprint. DOI: doi.org/10.48550/arXiv.2210.11218.
 ```
-The paper is available at: [...]
+The paper is available at: [arXiv](https://doi.org/10.48550/arXiv.2210.11218)
 
-![results](/recommendation4user.jpg)
+The paper was accepted to the [NeurIPS 2022 Tackling Climate Change with Machine Learning Workshop](https://nips.cc/virtual/2022/workshop/49964).
+
+![results](/recommendation_user.jpg)
 
 ## Summary 
 
@@ -66,10 +68,16 @@ For the day-ahead prices provided by the Price Agent, we access the online datab
 
 ## Citation
 
-If you use this code in your research, please cite our [...].
+If you use this code in your research, please cite our [paper](https://doi.org/10.48550/arXiv.2210.11218).
 
 ```
-[...]
+@misc{ZBKSV2022,
+  title = {Explainable Multi-Agent Recommendation System for Energy-Efficient Smart Home},
+  author = {Zharova, Alona and Boer, Annika and Knoblauch, Julia and Schewina, Kai Ingo and Vihs, Jana},
+  publisher = {arXiv},
+  year = {2022},
+  doi = {10.48550/arXiv.2210.11218}  
+}
 ```
 
 ## Contact
